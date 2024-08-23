@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 9,
   "characterGuid": "",
   "characterCustomization": {
     "name": {
@@ -91,6 +91,14 @@
     },
     {
       "skillID": 8,
+      "value": 0
+    },
+    {
+      "skillID": 9,
+      "value": 0
+    },
+    {
+      "skillID": 10,
       "value": 0
     }
   ],
@@ -493,6 +501,440 @@
       "variationUpdateCount": 0
     }
   ],
+  "inventoryObjectNames": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "inventoryAuxData": [
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    },
+    {
+      "index": 0,
+      "data": ""
+    }
+  ],
   "conditionsList": [],
   "hasUnlockedSouls": false,
   "coinAmount": 0,
@@ -540,5 +982,6 @@
   "characterType": 0,
   "discoveredBiomes": [],
   "discoveredObjects2": [],
-  "disabledSoulPowers": []
+  "disabledSoulPowers": [],
+  "hasPlayedOutro": false
 }
